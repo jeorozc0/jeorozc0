@@ -1,6 +1,6 @@
 just a dev who loves building stuff and diving deep into systems.
 
-currently vibing with ~
+currently learning ~
 * 📈 building scalable platforms: crafting high-performance systems that actually work
 * 🚀 full stack experiments: mixing React, Node, Go, and whatever looks interesting
 * 💻 systems programming: learning the low-level magic
